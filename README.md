@@ -1,4 +1,4 @@
-# Hi, I'm Mukesh Raj 👋
+# Hi, I'm Mukesh Raj K
 
 Final-year ECE student at B. S. Abdur Rahman Crescent Institute of Science and Technology, Chennai. I work on embedded systems, firmware development, and IoT — from bare-metal drivers to full hardware prototypes.
 
