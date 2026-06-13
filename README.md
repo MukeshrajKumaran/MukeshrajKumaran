@@ -32,7 +32,7 @@ Vibration signal analysis for bearing fault classification using Random Forest. 
 **[RAG Chat](https://github.com/MukeshrajKumaran/rag-project)**
 Full-stack Retrieval-Augmented Generation system. Upload PDFs, ask questions, get grounded answers with source citations. Built with FastAPI, LangChain, ChromaDB, and React. Tested on a 1300-page STM32 reference manual.
 
-**Multi-MCU Sensor Communication System**
+**[Multi-MCU Sensor Communication System](https://github.com/MukeshrajKumaran/Multi-MCU-Sensor-Communication-System.git)**
 Dual-microcontroller embedded system with I2C master-slave communication between ESP32 and Arduino Uno. Interfaced ultrasonic sensor and OLED module. Firmware in MicroPython.
 
 **Microstrip Patch Antenna Design**
