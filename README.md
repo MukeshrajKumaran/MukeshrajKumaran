@@ -38,7 +38,7 @@ Dual-microcontroller embedded system with I2C master-slave communication between
 **Microstrip Patch Antenna Design**
 Designed and simulated a 2.4 GHz ISM-band microstrip patch antenna and 820 MHz meander-line planar antenna in CST Studio Suite. Analyzed return loss, VSWR, and radiation pattern.
 
-**IoT Vehicle Number Plate Recognition (ESP32-CAM)**
+**[IoT Vehicle Number Plate Recognition (ESP32-CAM)](https://github.com/MukeshrajKumaran/IoT-Vechicle-Number-Plate-Detection.git)**
 Image acquisition system with camera interfacing and Wi-Fi transmission. Firmware in Arduino IDE.
 
 **IR-Based 3D Scanner**
